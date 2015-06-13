@@ -1,0 +1,8 @@
+# Make Better better!
+
+- create manager role & grant perms:
+  - access admin menu and admin pages
+  - administer content
+- better login page (just enable one of those modules)
+- 
+- 
