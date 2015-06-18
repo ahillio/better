@@ -1,8 +1,10 @@
 # Make Better better!
 
+- add date formats and date types
 - create manager role & grant perms:
   - access admin menu and admin pages
   - administer content
-- better login page (just enable one of those modules)
-- 
-- 
+- enabled modules 
+  - better login page (just enable one of those modules)
+  - views_ui
+- add HTML text filter -- no, provided by wysiwyg feature
