@@ -7,4 +7,7 @@
 - enabled modules 
   - better login page (just enable one of those modules)
   - views_ui
-- add HTML text filter -- no, provided by wysiwyg feature
+  - pathauto
+  - module_filter
+  - ds
+  - ahillio_wysiwyg
