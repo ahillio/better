@@ -4,6 +4,7 @@
 - create manager role & grant perms:
   - access admin menu and admin pages
   - administer content
+  - access content overview page
 - enabled modules 
   - better login page (just enable one of those modules)
   - views_ui
@@ -11,3 +12,6 @@
   - module_filter
   - ds
   - ahillio_wysiwyg
+- add 'better' branch to ahillio_wysiwyg
+  - this branch should contain permissions to use media browser, linkit etc
+    anything
